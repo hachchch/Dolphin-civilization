@@ -1,0 +1,33 @@
+[
+        {
+                "name": "Delphinus Sapiens",
+                "leaderName": "Tribe",
+		"adjective": ["Common Dolphin"],
+		"startBias": ["Dolphin startBias"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "eeeeeee",
+		"startIntroPart2": "eeeeeee.eeeeeee.",
+
+		"declaringWar": "eeeeeee",
+		"attacked": "eeeeeee",
+		"defeated": "eeeeeee",
+		"introduction": "eeeeeee",
+
+		"neutralHello": "eeeeeee",
+		"hateHello": "eeeeeee",
+
+		"tradeRequest": "eeeeeee",
+
+		"outerColor": [27,53,63],
+		"innerColor": [213,249,255],
+		"uniqueName": "Cetacean",
+                "uniques": ["Comment [Start with Dolphin]","Comment [Cannot have city center]",
+                "May heal outside of friendly territory <for [All] units> <in [Water] tiles>",
+                "May heal outside of friendly territory <for [All] units> <in [Fresh water] tiles>",
+                "May not annex cities","Cities are razed [9999] times as fast",
+                "Upon capturing a city, receive [1] times its [Science] production as [Science] immediately"],
+		"cities": ["Ocean"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+        }
+]
