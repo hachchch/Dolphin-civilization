@@ -11,7 +11,7 @@
         },
         {
                 "name": "Child Dolphin",
-                "unitType": "Dolphin",
+                "unitType": "Civilian",
                 "uniqueTo": "Delphinus Sapiens",
 		"replaces": "Settler",
                 "strength": 5,
