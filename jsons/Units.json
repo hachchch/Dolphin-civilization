@@ -1,0 +1,21 @@
+[
+        {
+                "name": "Dolphin",
+                "unitType": "Dolphin",
+                "uniqueTo": "Delphinus Sapiens",
+		"replaces": "Warrior",
+                "strength": 10,
+                "cost": 1,
+                "attackSound": "nonmetalhit",
+                "uniques": ["Triggers a [Dolphin Event] event <[3] times>"]
+        },
+        {
+                "name": "Child Dolphin",
+                "unitType": "Dolphin",
+                "uniqueTo": "Delphinus Sapiens",
+		"replaces": "Settler",
+                "strength": 5,
+                "cost": 1,
+                "attackSound": "nonmetalhit"
+        }
+]
