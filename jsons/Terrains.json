@@ -1,0 +1,11 @@
+[
+        {
+                "name": "Dolphin StartBias",
+		"type": "Land",
+                "food": 1,
+		"gold": 1,
+		"movementCost": 1,
+                "RGB": [0, 163, 0],
+                "uniques": ["Water","Ocean","Neighboring tiles will convert to [Coast]","Rare feature"]
+        }
+]
